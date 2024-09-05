@@ -11,9 +11,9 @@ Cart Section: Enables users to add and remove items from their cart.
 
 ## Features
 Dashboard Page:
-Search for products using a search bar.
-View a grid of products with images, titles, descriptions, and prices.
-Tap on a product to view its details and add it to the cart.
+< br / >Search for products using a search bar.
+< br / >View a grid of products with images, titles, descriptions, and prices.
+< br / >Tap on a product to view its details and add it to the cart.
 
 Cart Section:
 Display a list of products in the cart.
