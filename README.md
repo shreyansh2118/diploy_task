@@ -4,21 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-This Flutter-based E-commerce application consists of two primary sections:
+This Flutter-based E-commerce application consists of two primary sections:<br/>
 
-Dashboard Page: Allows users to search for products and view a list of products.
+Dashboard Page: Allows users to search for products and view a list of products.<br/>
 Cart Section: Enables users to add and remove items from their cart.
 
 ## Features
-Dashboard Page:
+Dashboard Page:<br/>
 Search for products using a search bar.<br/>
-View a grid of products with images, titles, descriptions, and prices.
-Tap on a product to view its details and add it to the cart.
+View a grid of products with images, titles, descriptions, and prices.<br/>
+Tap on a product to view its details and add it to the cart.<br/>
 
-Cart Section:
-Display a list of products in the cart.
-Remove items from the cart.
-Calculate and display the total price of items in the cart.
+Cart Section:<br/>
+Display a list of products in the cart.<br/>
+Remove items from the cart.<br/>
+Calculate and display the total price of items in the cart.<br/>
 
 ![Screenshot_1725532552](https://github.com/user-attachments/assets/e6a9656c-bfed-4b8c-bdf1-a7cc8c3d82e8)
 ![Screenshot_1725532566](https://github.com/user-attachments/assets/406063cb-7d06-4de6-b8e4-21549fd39277)
