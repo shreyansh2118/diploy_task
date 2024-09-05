@@ -9,7 +9,7 @@ This Flutter-based E-commerce application consists of two primary sections:
 Dashboard Page: Allows users to search for products and view a list of products.
 Cart Section: Enables users to add and remove items from their cart.
 
-##Features
+## Features
 Dashboard Page:
 Search for products using a search bar.
 View a grid of products with images, titles, descriptions, and prices.
